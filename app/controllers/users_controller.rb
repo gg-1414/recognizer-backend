@@ -15,9 +15,4 @@ class UsersController < ApplicationController
     @user.emotions << @emotion
     render json: @user
   end
-
-  # private
-  # def user_params
-  #   params.require(:users).permit(:username)
-  # end
-end
+end 
