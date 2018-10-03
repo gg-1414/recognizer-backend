@@ -1,10 +1,14 @@
 class UserSerializer < ActiveModel::Serializer
-  attributes :id, :username, :songs
+  attributes :id, :username
   has_many :emotions
 
-  def songs
-    e = []
-    object.emotions.each {|emo| e << emo.songs}
-    return e
+  def emotions
+    object.emotions.map do |emotion|
+      {
+        id: emotion.id,
+        mood: emotion.mood,
+        songs: emotion.songs
+      }
+    end
   end
 end
