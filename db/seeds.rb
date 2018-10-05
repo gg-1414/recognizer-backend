@@ -15,39 +15,69 @@ Emotion.create(mood: 'anger')
 Emotion.create(mood: 'neutral')
 Emotion.create(mood: 'sadness')
 Emotion.create(mood: 'surprise')
-Emotion.create(mood: 'fear')
+Emotion.create(mood: 'fear') 
 
 
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:1)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:2)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:3)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:4)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:5)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:6)
-Song.create(name: 'Disarm You', artist: 'Kaskade',emotion_id:7)
+Song.create(name: 'Disarm You', artist: 'Kaskade', emotion_id:4)
+Song.create(name: 'Disarm You', artist: 'Kaskade', emotion_id:5)
+Song.create(name: 'Disarm You', artist: 'Kaskade', emotion_id:6)
+Song.create(name: 'Disarm You', artist: 'Kaskade', emotion_id:7)
 
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:1)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:2)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:3)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:4)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:5)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:6)
-Song.create(name: 'Can i', artist: 'Alina Baraz',emotion_id:7)
+Song.create(name: 'Its All On You', artist: 'Illenium', emotion_id:4)
+Song.create(name: 'Its All On You', artist: 'Illenium', emotion_id:6)
+
+Song.create(name: 'Unfaith', artist: 'Ekali', emotion_id:1)
+Song.create(name: 'Unfaith', artist: 'Ekali', emotion_id:4)
+Song.create(name: 'Unfaith', artist: 'Ekali', emotion_id:6)
+Song.create(name: 'Unfaith', artist: 'Ekali', emotion_id:7)
+
+Song.create(name: 'Infinity', artist: 'Niykee Heaton', emotion_id:4)
+Song.create(name: 'Infinity', artist: 'Niykee Heaton', emotion_id:5)
+Song.create(name: 'Infinity', artist: 'Niykee Heaton', emotion_id:6)
+Song.create(name: 'Infinity', artist: 'Niykee Heaton', emotion_id:7)
+
+Song.create(name: 'KILLSHOT', artist: 'Eminem', emotion_id:2)
+Song.create(name: 'KILLSHOT', artist: 'Eminem', emotion_id:3)
+
+Song.create(name: 'Edge', artist: 'REZZ', emotion_id:3)
+
+Song.create(name: 'All In The Value', artist: 'Honne', emotion_id:1)
+Song.create(name: 'All In The Value', artist: 'Honne', emotion_id:4)
+Song.create(name: 'All In The Value', artist: 'Honne', emotion_id:5)
+
+Song.create(name: 'Coaster', artist: 'Khalid', emotion_id:4)
+Song.create(name: 'Coaster', artist: 'Khalid', emotion_id:5)
+Song.create(name: 'Coaster', artist: 'Khalid', emotion_id:7)
+
+Song.create(name: 'Natural Light', artist: 'Porter Robinson', emotion_id:4)
+Song.create(name: 'Natural Light', artist: 'Porter Robinson', emotion_id:6)
+Song.create(name: 'Natural Light', artist: 'Porter Robinson', emotion_id:7)
+
+Song.create(name: 'Get You', artist: 'Daniel Caesar', emotion_id:4)
+Song.create(name: 'Get You', artist: 'Daniel Caesar', emotion_id:5)
+
+Song.create(name: 'Got It Good', artist: 'Kaytranada', emotion_id:1)
+
+Song.create(name: 'High And Low', artist: 'Empire Of The Sun', emotion_id:1)
+
+Song.create(name: 'Sober', artist: 'Childish Gambino', emotion_id:1)
+Song.create(name: 'Sober', artist: 'Childish Gambino', emotion_id:4)
+Song.create(name: 'Sober', artist: 'Childish Gambino', emotion_id:6)
+
+Song.create(name: '44 Bars', artist: 'Logic', emotion_id:4)
+
+Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:1)
+Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:4)
+Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:6)
+
+Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:2)
+Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:4)
+
+Song.create(name: 'Faded', artist: 'Odesza', emotion_id:6)
 
 
 
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
-# Song.create(name: 'Controlla', artist: 'Drake',emotion_id:2)
+
 
 UserReading.create(user_id: 1, emotion_id: 1)
 UserReading.create(user_id:1,emotion_id:2)
