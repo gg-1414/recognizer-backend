@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   resources :emotions, only: :index
 
   get "/emotions/:id/random_song", to: "emotions#random_song", as: "random_song"
-
+ 
 
 
 end
