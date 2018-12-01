@@ -11,4 +11,4 @@ class UserSerializer < ActiveModel::Serializer
       }
     end
   end
-end 
+end

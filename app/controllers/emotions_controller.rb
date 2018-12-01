@@ -1,6 +1,11 @@
 class EmotionsController < ApplicationController
   def index
-    @emotion = Emotion.all
+    @emotions = Emotion.all
+    render json: @emotions
+  end
+
+  def show
+    @emotion = Emotion.find(params[:id])
     render json: @emotion
   end
 
