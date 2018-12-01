@@ -7,7 +7,6 @@ class UserSerializer < ActiveModel::Serializer
       {
         id: emotion.id,
         mood: emotion.mood,
-        songs: emotion.songs
       }
     end
   end
