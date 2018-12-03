@@ -122,4 +122,4 @@ Song.create(name: 'Lay Me Down (Flume Remix)', artist: 'Sam Smith', emotion_id:7
 
 
 UserReading.create(user_id: 1, emotion_id: 1)
-UserReading.create(user_id:1,emotion_id:2)
+UserReading.create(user_id: 1, emotion_id: 2)
