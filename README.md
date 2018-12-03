@@ -1,24 +1,6 @@
-# README
+# Recognizer (Back-end)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We wanted to create an app that will play a random song based on the user's current emotion: happiness, disgust, anger, neutral, sadness, surprise, or fear. And a visualizer (collecting the audio frequency in real time) in the background as an added bonus.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please refer to the front-end README:
+https://github.com/gg-1414/recognizer-fe
