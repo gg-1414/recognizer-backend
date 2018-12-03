@@ -62,38 +62,62 @@ Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:1)
 Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:4)
 Song.create(name: 'I Wanna Know', artist: 'RL Grime', emotion_id:6)
 
+Song.create(name: 'The Hills', artist: 'RL Grime', emotion_id:2)
+Song.create(name: 'The Hills', artist: 'RL Grime', emotion_id:3)
+Song.create(name: 'The Hills', artist: 'RL Grime', emotion_id:6)
+
 Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:2)
 Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:4)
+Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:6)
+Song.create(name: 'Sunset In Costa Rica', artist: 'TroyBoi', emotion_id:7)
 
 Song.create(name: 'Faded', artist: 'Odesza', emotion_id:6)
 
+Song.create(name: 'Because Of You', artist: 'Neyo', emotion_id:1)
+Song.create(name: 'Because Of You', artist: 'Neyo', emotion_id:6)
 
+Song.create(name: 'I Want It That Way', artist: 'Backstreet Boys', emotion_id:1)
 
-Song.create(name: 'IT WASNT ME', artist: 'SHAGGY',emotion_id:2)
-Song.create(name: 'September', artist: 'Earth',emotion_id:4)
-Song.create(name: 'Afterlife', artist: 'Avenged Sevenfold',emotion_id:3)
-Song.create(name: 'Afterlife', artist: 'Avenged Sevenfold',emotion_id:7)
-Song.create(name: 'Bat Country', artist: 'Avenged Sevenfold',emotion_id:7)
-Song.create(name: 'Bat Country', artist: 'Avenged Sevenfold',emotion_id:3)
-Song.create(name: 'ShortyLikeMine', artist: 'Chris Brown',emotion_id:4)
-Song.create(name: 'Lovumba', artist: 'Daddy Yankee',emotion_id:1)
-Song.create(name: 'MI REINA', artist: 'LA MAKINA',emotion_id:1)
-Song.create(name: 'Firework', artist: 'Katy Perry',emotion_id:1)
-Song.create(name: 'Paper Planes', artist: 'MIA',emotion_id:4)
-Song.create(name: 'I want it that way', artist: 'Backstreet Boys',emotion_id:1)
-Song.create(name: 'Everytime We Touch', artist: 'Cascada',emotion_id:1)
-Song.create(name: 'Whats Left Of Me', artist: 'Nick Lachey',emotion_id:5)
-Song.create(name: 'Crush', artist: 'David Archuleta',emotion_id:5)
+Song.create(name: 'If I Aint Got You', artist: 'Alicia Keys', emotion_id:4)
+Song.create(name: 'If I Aint Got You', artist: 'Alicia Keys', emotion_id:6)
 
-Song.create(name: 'Nobody Can Save Me', artist: 'Linkin Park',emotion_id:5)
-Song.create(name: 'Burn', artist: 'Usher',emotion_id:5)
-Song.create(name: 'Caliente', artist: 'Jay Santos',emotion_id:1)
-Song.create(name: 'Faces', artist: 'Scary Kids Scaring Kids',emotion_id:7)
-Song.create(name: 'Day N Nite', artist: 'Kid Cudi',emotion_id:4)
-Song.create(name: 'Soundtrack To My Life', artist: 'Kid Cudi',emotion_id:4)
-Song.create(name: 'You had a bad day', artist: 'Daniel',emotion_id:5)
+Song.create(name: 'Got It Good', artist: 'Kaytranada', emotion_id:1)
+Song.create(name: 'Got It Good', artist: 'Kaytranada', emotion_id:4)
+Song.create(name: 'Got It Good', artist: 'Kaytranada', emotion_id:6)
 
+Song.create(name: 'Money Trees', artist: 'Kendrick Lamar', emotion_id:2)
+Song.create(name: 'Money Trees', artist: 'Kendrick Lamar', emotion_id:4)
 
+Song.create(name: 'Day N Nite', artist: 'Kid Cudi', emotion_id:2)
+Song.create(name: 'Day N Nite', artist: 'Kid Cudi', emotion_id:4)
+Song.create(name: 'Day N Nite', artist: 'Kid Cudi', emotion_id:7)
+
+Song.create(name: 'Soundtrack To My Life', artist: 'Kid Cudi', emotion_id:4)
+Song.create(name: 'Soundtrack To My Life', artist: 'Kid Cudi', emotion_id:5)
+
+Song.create(name: 'Kirra', artist: 'CharlestheFirst', emotion_id:4)
+Song.create(name: 'Kirra', artist: 'CharlestheFirst', emotion_id:6)
+Song.create(name: 'Kirra', artist: 'CharlestheFirst', emotion_id:7)
+
+Song.create(name: '44 Bars', artist: 'Logic', emotion_id:2)
+Song.create(name: '44 Bars', artist: 'Logic', emotion_id:4)
+Song.create(name: '44 Bars', artist: 'Logic', emotion_id:5)
+Song.create(name: '44 Bars', artist: 'Logic', emotion_id:7)
+
+Song.create(name: 'Earth Wind Fire', artist: 'September', emotion_id:1)
+Song.create(name: 'Earth Wind Fire', artist: 'September', emotion_id:6)
+
+Song.create(name: 'It Wasnt Me', artist: 'Shaggy', emotion_id:6)
+
+Song.create(name: 'Valerie', artist: 'Amy Winehouse', emotion_id:1)
+
+Song.create(name: 'Can I (Ekali Remix)', artist: 'Galimatias & Alina Baraz', emotion_id:4)
+Song.create(name: 'Can I (Ekali Remix)', artist: 'Galimatias & Alina Baraz', emotion_id:6)
+
+Song.create(name: 'Lay Me Down (Flume Remix)', artist: 'Sam Smith', emotion_id:4)
+Song.create(name: 'Lay Me Down (Flume Remix)', artist: 'Sam Smith', emotion_id:5)
+Song.create(name: 'Lay Me Down (Flume Remix)', artist: 'Sam Smith', emotion_id:6)
+Song.create(name: 'Lay Me Down (Flume Remix)', artist: 'Sam Smith', emotion_id:7)
 
 
 
